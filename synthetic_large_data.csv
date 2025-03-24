@@ -1,0 +1,2001 @@
+product_category,customer_location,shipping_method,delivery_time
+Beauty & Personal Care,Pune,Economy,4
+Health & Household,Indore,Standard,8
+Automotive,Indore,Express,4
+Beauty & Personal Care,Pune,Standard,4
+Sports & Outdoors,Nagpur,Priority,4
+Books,Pune,Standard,2
+Home Goods,Indore,Priority,3
+Sports & Outdoors,Nagpur,Economy,7
+Toys & Games,Chennai,Priority,1
+Toys & Games,Mumbai,Standard,3
+Tools & Home Improvement,Surat,Economy,10
+Health & Household,Indore,Priority,4
+Clothing,Bangalore,Economy,5
+Beauty & Personal Care,Bangalore,Priority,2
+Tools & Home Improvement,Kolkata,Express,4
+Electronics,Kolkata,Express,3
+Clothing,Bangalore,Standard,6
+Books,Pune,Priority,1
+Health & Household,Ahmedabad,Economy,6
+Electronics,Pune,Priority,1
+Toys & Games,Hyderabad,Standard,4
+Automotive,Hyderabad,Priority,3
+Beauty & Personal Care,Ahmedabad,Express,4
+Electronics,Kolkata,Express,2
+Tools & Home Improvement,Ahmedabad,Economy,7
+Books,Kanpur,Express,7
+Health & Household,Indore,Economy,9
+Books,Bhopal,Express,7
+Tools & Home Improvement,Surat,Priority,5
+Beauty & Personal Care,Chennai,Priority,1
+Tools & Home Improvement,Surat,Economy,7
+Clothing,Indore,Priority,4
+Health & Household,Bangalore,Priority,2
+Books,Ahmedabad,Economy,7
+Sports & Outdoors,Surat,Express,4
+Electronics,Lucknow,Express,4
+Beauty & Personal Care,Hyderabad,Economy,4
+Health & Household,Indore,Priority,3
+Toys & Games,Surat,Express,3
+Automotive,Kanpur,Express,5
+Sports & Outdoors,Nagpur,Standard,5
+Electronics,Nagpur,Express,5
+Clothing,Ahmedabad,Express,2
+Clothing,Chennai,Standard,5
+Toys & Games,Chennai,Economy,6
+Books,Pune,Express,4
+Books,Nagpur,Standard,7
+Electronics,Indore,Express,6
+Electronics,Indore,Priority,5
+Toys & Games,Lucknow,Priority,3
+Home Goods,Bangalore,Priority,3
+Health & Household,Bangalore,Express,4
+Home Goods,Surat,Standard,5
+Toys & Games,Surat,Standard,7
+Tools & Home Improvement,Lucknow,Economy,10
+Sports & Outdoors,Lucknow,Economy,9
+Health & Household,Surat,Priority,4
+Sports & Outdoors,Indore,Economy,10
+Clothing,Jaipur,Standard,5
+Books,Indore,Priority,3
+Sports & Outdoors,Delhi,Priority,3
+Electronics,Delhi,Standard,6
+Tools & Home Improvement,Jaipur,Standard,6
+Beauty & Personal Care,Hyderabad,Economy,4
+Sports & Outdoors,Indore,Standard,5
+Sports & Outdoors,Lucknow,Priority,5
+Books,Bangalore,Priority,2
+Electronics,Chennai,Express,3
+Clothing,Surat,Economy,9
+Health & Household,Bhopal,Express,5
+Sports & Outdoors,Indore,Express,4
+Electronics,Chennai,Economy,7
+Clothing,Pune,Express,4
+Home Goods,Surat,Express,5
+Tools & Home Improvement,Kolkata,Priority,2
+Tools & Home Improvement,Chennai,Economy,7
+Electronics,Indore,Express,7
+Books,Kolkata,Priority,2
+Beauty & Personal Care,Kanpur,Express,6
+Health & Household,Pune,Express,3
+Automotive,Mumbai,Priority,3
+Clothing,Ahmedabad,Standard,5
+Books,Delhi,Express,2
+Sports & Outdoors,Surat,Standard,6
+Home Goods,Nagpur,Standard,8
+Health & Household,Bhopal,Economy,8
+Clothing,Pune,Economy,5
+Home Goods,Hyderabad,Standard,5
+Beauty & Personal Care,Kolkata,Standard,2
+Sports & Outdoors,Chennai,Priority,1
+Home Goods,Kanpur,Standard,6
+Clothing,Kolkata,Standard,4
+Home Goods,Mumbai,Economy,8
+Electronics,Chennai,Standard,4
+Health & Household,Chennai,Express,2
+Sports & Outdoors,Chennai,Standard,3
+Health & Household,Lucknow,Priority,5
+Beauty & Personal Care,Chennai,Priority,3
+Electronics,Mumbai,Standard,6
+Beauty & Personal Care,Kolkata,Economy,7
+Automotive,Ahmedabad,Economy,6
+Automotive,Surat,Economy,7
+Sports & Outdoors,Jaipur,Express,6
+Toys & Games,Bhopal,Priority,3
+Health & Household,Nagpur,Standard,6
+Electronics,Chennai,Express,3
+Tools & Home Improvement,Kanpur,Priority,7
+Sports & Outdoors,Jaipur,Priority,2
+Beauty & Personal Care,Bhopal,Economy,9
+Tools & Home Improvement,Chennai,Standard,6
+Clothing,Delhi,Economy,6
+Clothing,Bangalore,Standard,6
+Toys & Games,Lucknow,Standard,7
+Health & Household,Surat,Standard,5
+Clothing,Pune,Express,2
+Home Goods,Kanpur,Standard,6
+Tools & Home Improvement,Nagpur,Priority,4
+Books,Indore,Standard,6
+Sports & Outdoors,Mumbai,Standard,6
+Books,Delhi,Express,3
+Automotive,Hyderabad,Economy,7
+Clothing,Jaipur,Standard,6
+Sports & Outdoors,Pune,Express,2
+Toys & Games,Mumbai,Economy,5
+Beauty & Personal Care,Kanpur,Economy,10
+Clothing,Ahmedabad,Priority,2
+Automotive,Jaipur,Standard,6
+Health & Household,Ahmedabad,Priority,1
+Sports & Outdoors,Bhopal,Standard,7
+Electronics,Kanpur,Standard,8
+Clothing,Ahmedabad,Express,3
+Books,Delhi,Standard,5
+Automotive,Mumbai,Economy,5
+Toys & Games,Kanpur,Express,6
+Books,Mumbai,Standard,6
+Home Goods,Kolkata,Express,3
+Toys & Games,Pune,Priority,3
+Sports & Outdoors,Ahmedabad,Economy,4
+Health & Household,Bangalore,Standard,5
+Automotive,Kanpur,Economy,8
+Clothing,Kolkata,Economy,6
+Tools & Home Improvement,Chennai,Priority,5
+Home Goods,Delhi,Express,2
+Beauty & Personal Care,Chennai,Priority,2
+Books,Jaipur,Economy,7
+Automotive,Pune,Priority,1
+Beauty & Personal Care,Surat,Priority,4
+Tools & Home Improvement,Bangalore,Economy,9
+Automotive,Kanpur,Express,7
+Health & Household,Pune,Standard,5
+Clothing,Bangalore,Standard,5
+Sports & Outdoors,Mumbai,Economy,8
+Electronics,Kanpur,Express,7
+Sports & Outdoors,Delhi,Priority,4
+Beauty & Personal Care,Indore,Priority,4
+Electronics,Delhi,Economy,7
+Books,Bangalore,Express,2
+Automotive,Indore,Economy,8
+Sports & Outdoors,Lucknow,Standard,4
+Tools & Home Improvement,Surat,Priority,3
+Sports & Outdoors,Kolkata,Express,3
+Toys & Games,Nagpur,Standard,6
+Toys & Games,Surat,Economy,8
+Automotive,Lucknow,Standard,5
+Health & Household,Nagpur,Express,6
+Automotive,Bhopal,Express,5
+Automotive,Lucknow,Economy,6
+Toys & Games,Bhopal,Economy,9
+Books,Jaipur,Economy,7
+Beauty & Personal Care,Pune,Priority,3
+Beauty & Personal Care,Delhi,Priority,3
+Health & Household,Indore,Priority,3
+Sports & Outdoors,Ahmedabad,Economy,7
+Beauty & Personal Care,Indore,Economy,7
+Toys & Games,Lucknow,Standard,4
+Sports & Outdoors,Kanpur,Express,6
+Clothing,Kolkata,Priority,1
+Books,Nagpur,Priority,4
+Health & Household,Kolkata,Economy,4
+Health & Household,Lucknow,Economy,6
+Automotive,Bangalore,Standard,5
+Beauty & Personal Care,Lucknow,Economy,8
+Sports & Outdoors,Bhopal,Priority,3
+Electronics,Bangalore,Priority,3
+Electronics,Nagpur,Express,5
+Clothing,Delhi,Economy,6
+Sports & Outdoors,Indore,Express,4
+Toys & Games,Kolkata,Standard,2
+Home Goods,Kanpur,Priority,6
+Clothing,Mumbai,Priority,3
+Home Goods,Bhopal,Standard,5
+Electronics,Bangalore,Economy,8
+Home Goods,Kolkata,Express,4
+Automotive,Delhi,Express,3
+Home Goods,Kanpur,Standard,6
+Toys & Games,Mumbai,Standard,3
+Home Goods,Chennai,Priority,3
+Books,Mumbai,Economy,6
+Beauty & Personal Care,Delhi,Priority,3
+Automotive,Indore,Priority,3
+Sports & Outdoors,Jaipur,Express,3
+Health & Household,Chennai,Express,4
+Electronics,Kanpur,Economy,8
+Tools & Home Improvement,Indore,Express,8
+Beauty & Personal Care,Ahmedabad,Economy,6
+Automotive,Surat,Standard,6
+Automotive,Pune,Standard,4
+Home Goods,Kanpur,Economy,9
+Beauty & Personal Care,Kanpur,Priority,4
+Home Goods,Indore,Standard,6
+Beauty & Personal Care,Jaipur,Express,4
+Clothing,Kolkata,Priority,1
+Home Goods,Jaipur,Economy,8
+Books,Hyderabad,Economy,4
+Tools & Home Improvement,Indore,Priority,7
+Toys & Games,Nagpur,Priority,5
+Sports & Outdoors,Delhi,Standard,3
+Beauty & Personal Care,Ahmedabad,Express,4
+Books,Chennai,Express,4
+Sports & Outdoors,Surat,Economy,6
+Health & Household,Mumbai,Economy,8
+Tools & Home Improvement,Kolkata,Standard,4
+Electronics,Nagpur,Priority,6
+Books,Bangalore,Express,5
+Toys & Games,Bhopal,Priority,5
+Tools & Home Improvement,Bangalore,Standard,6
+Automotive,Chennai,Economy,8
+Sports & Outdoors,Surat,Express,3
+Home Goods,Hyderabad,Priority,1
+Beauty & Personal Care,Pune,Priority,3
+Tools & Home Improvement,Kanpur,Standard,6
+Home Goods,Hyderabad,Express,3
+Toys & Games,Bhopal,Express,4
+Sports & Outdoors,Nagpur,Express,6
+Sports & Outdoors,Jaipur,Express,3
+Home Goods,Kanpur,Express,7
+Tools & Home Improvement,Surat,Economy,7
+Sports & Outdoors,Kanpur,Economy,9
+Health & Household,Kolkata,Standard,3
+Health & Household,Hyderabad,Priority,3
+Electronics,Bhopal,Express,6
+Home Goods,Nagpur,Standard,6
+Home Goods,Nagpur,Priority,4
+Electronics,Kanpur,Economy,9
+Toys & Games,Kanpur,Priority,5
+Tools & Home Improvement,Jaipur,Express,6
+Clothing,Pune,Priority,1
+Health & Household,Chennai,Standard,3
+Automotive,Bangalore,Economy,6
+Toys & Games,Kanpur,Express,6
+Books,Mumbai,Standard,5
+Beauty & Personal Care,Kolkata,Priority,1
+Home Goods,Chennai,Economy,6
+Sports & Outdoors,Kanpur,Standard,7
+Beauty & Personal Care,Nagpur,Standard,5
+Beauty & Personal Care,Hyderabad,Priority,2
+Clothing,Bhopal,Economy,10
+Automotive,Pune,Priority,3
+Sports & Outdoors,Bangalore,Priority,2
+Sports & Outdoors,Pune,Standard,3
+Books,Kolkata,Express,4
+Books,Indore,Economy,8
+Health & Household,Hyderabad,Express,2
+Electronics,Nagpur,Express,8
+Books,Nagpur,Priority,4
+Beauty & Personal Care,Bangalore,Standard,5
+Beauty & Personal Care,Jaipur,Express,6
+Automotive,Ahmedabad,Standard,5
+Sports & Outdoors,Surat,Priority,2
+Electronics,Pune,Standard,6
+Electronics,Surat,Express,4
+Books,Surat,Economy,7
+Beauty & Personal Care,Bangalore,Economy,8
+Sports & Outdoors,Pune,Priority,1
+Automotive,Jaipur,Express,3
+Tools & Home Improvement,Bhopal,Express,8
+Health & Household,Kolkata,Economy,5
+Tools & Home Improvement,Nagpur,Economy,8
+Home Goods,Indore,Standard,8
+Tools & Home Improvement,Chennai,Economy,8
+Beauty & Personal Care,Indore,Express,4
+Home Goods,Hyderabad,Express,3
+Electronics,Lucknow,Priority,3
+Tools & Home Improvement,Jaipur,Standard,7
+Clothing,Chennai,Economy,8
+Electronics,Kolkata,Priority,2
+Sports & Outdoors,Jaipur,Economy,6
+Clothing,Ahmedabad,Priority,1
+Books,Mumbai,Standard,6
+Books,Mumbai,Economy,8
+Beauty & Personal Care,Delhi,Priority,2
+Tools & Home Improvement,Bangalore,Express,3
+Sports & Outdoors,Ahmedabad,Standard,2
+Toys & Games,Bangalore,Express,5
+Home Goods,Delhi,Standard,4
+Automotive,Kanpur,Economy,8
+Toys & Games,Indore,Economy,8
+Clothing,Pune,Express,4
+Tools & Home Improvement,Kolkata,Standard,6
+Sports & Outdoors,Indore,Standard,5
+Clothing,Mumbai,Priority,4
+Clothing,Bangalore,Standard,5
+Toys & Games,Ahmedabad,Express,2
+Beauty & Personal Care,Indore,Standard,5
+Clothing,Bangalore,Priority,4
+Tools & Home Improvement,Delhi,Priority,3
+Tools & Home Improvement,Pune,Express,4
+Toys & Games,Bhopal,Priority,4
+Beauty & Personal Care,Chennai,Priority,2
+Home Goods,Kolkata,Standard,5
+Electronics,Bangalore,Priority,2
+Beauty & Personal Care,Delhi,Economy,5
+Beauty & Personal Care,Pune,Express,1
+Clothing,Kolkata,Standard,4
+Clothing,Jaipur,Economy,6
+Tools & Home Improvement,Bhopal,Priority,5
+Tools & Home Improvement,Nagpur,Economy,10
+Toys & Games,Jaipur,Express,4
+Automotive,Hyderabad,Priority,2
+Automotive,Lucknow,Economy,7
+Sports & Outdoors,Bhopal,Economy,9
+Clothing,Jaipur,Express,6
+Electronics,Delhi,Express,5
+Health & Household,Pune,Standard,4
+Tools & Home Improvement,Mumbai,Priority,3
+Tools & Home Improvement,Lucknow,Economy,8
+Health & Household,Kanpur,Express,4
+Toys & Games,Kanpur,Standard,7
+Beauty & Personal Care,Pune,Express,2
+Clothing,Chennai,Priority,2
+Books,Nagpur,Express,6
+Clothing,Surat,Express,6
+Home Goods,Pune,Standard,5
+Automotive,Indore,Priority,6
+Electronics,Kanpur,Economy,9
+Beauty & Personal Care,Mumbai,Priority,4
+Books,Lucknow,Express,6
+Tools & Home Improvement,Lucknow,Priority,5
+Beauty & Personal Care,Hyderabad,Economy,7
+Tools & Home Improvement,Nagpur,Standard,9
+Toys & Games,Surat,Priority,2
+Books,Mumbai,Standard,6
+Automotive,Mumbai,Express,2
+Toys & Games,Bhopal,Standard,8
+Toys & Games,Mumbai,Express,2
+Electronics,Ahmedabad,Express,2
+Electronics,Jaipur,Priority,3
+Health & Household,Kanpur,Express,6
+Home Goods,Ahmedabad,Express,1
+Toys & Games,Hyderabad,Economy,4
+Books,Surat,Standard,7
+Health & Household,Ahmedabad,Express,1
+Toys & Games,Indore,Standard,5
+Books,Kolkata,Standard,4
+Tools & Home Improvement,Kanpur,Express,7
+Books,Hyderabad,Express,3
+Tools & Home Improvement,Hyderabad,Economy,7
+Tools & Home Improvement,Jaipur,Priority,6
+Home Goods,Delhi,Standard,6
+Health & Household,Chennai,Standard,6
+Tools & Home Improvement,Hyderabad,Standard,5
+Beauty & Personal Care,Kanpur,Standard,6
+Sports & Outdoors,Indore,Economy,10
+Health & Household,Bhopal,Priority,5
+Tools & Home Improvement,Pune,Standard,3
+Sports & Outdoors,Hyderabad,Express,1
+Tools & Home Improvement,Hyderabad,Standard,5
+Toys & Games,Ahmedabad,Priority,2
+Toys & Games,Indore,Economy,7
+Toys & Games,Nagpur,Standard,8
+Beauty & Personal Care,Kanpur,Priority,6
+Tools & Home Improvement,Bhopal,Standard,9
+Books,Hyderabad,Express,2
+Books,Jaipur,Express,4
+Home Goods,Bangalore,Priority,3
+Sports & Outdoors,Kanpur,Standard,5
+Electronics,Nagpur,Express,6
+Beauty & Personal Care,Bhopal,Standard,7
+Books,Lucknow,Standard,6
+Electronics,Bangalore,Express,3
+Sports & Outdoors,Surat,Express,6
+Automotive,Bhopal,Priority,6
+Home Goods,Delhi,Express,2
+Tools & Home Improvement,Kolkata,Express,3
+Clothing,Bangalore,Express,2
+Tools & Home Improvement,Indore,Priority,7
+Beauty & Personal Care,Surat,Priority,2
+Health & Household,Chennai,Economy,6
+Automotive,Indore,Priority,5
+Toys & Games,Mumbai,Economy,6
+Clothing,Pune,Economy,4
+Sports & Outdoors,Delhi,Express,5
+Clothing,Mumbai,Standard,4
+Books,Bhopal,Standard,6
+Automotive,Jaipur,Economy,7
+Books,Lucknow,Economy,8
+Sports & Outdoors,Chennai,Priority,3
+Home Goods,Lucknow,Economy,6
+Sports & Outdoors,Indore,Express,6
+Health & Household,Indore,Express,5
+Sports & Outdoors,Kolkata,Express,4
+Health & Household,Kolkata,Priority,3
+Books,Chennai,Priority,1
+Home Goods,Lucknow,Priority,5
+Electronics,Indore,Standard,8
+Automotive,Ahmedabad,Economy,5
+Home Goods,Mumbai,Economy,8
+Health & Household,Delhi,Standard,6
+Home Goods,Jaipur,Priority,5
+Toys & Games,Surat,Express,3
+Tools & Home Improvement,Nagpur,Priority,5
+Tools & Home Improvement,Delhi,Priority,4
+Electronics,Bangalore,Express,6
+Clothing,Pune,Express,4
+Tools & Home Improvement,Hyderabad,Express,2
+Beauty & Personal Care,Mumbai,Economy,7
+Clothing,Lucknow,Economy,7
+Tools & Home Improvement,Bhopal,Express,8
+Sports & Outdoors,Pune,Economy,6
+Home Goods,Kanpur,Standard,6
+Automotive,Ahmedabad,Standard,2
+Automotive,Chennai,Express,4
+Clothing,Hyderabad,Express,4
+Clothing,Indore,Express,6
+Toys & Games,Hyderabad,Economy,4
+Home Goods,Hyderabad,Express,2
+Beauty & Personal Care,Bangalore,Priority,2
+Books,Indore,Priority,5
+Electronics,Lucknow,Priority,5
+Electronics,Lucknow,Standard,6
+Clothing,Pune,Priority,2
+Clothing,Hyderabad,Express,1
+Books,Ahmedabad,Priority,3
+Home Goods,Kolkata,Priority,2
+Clothing,Bangalore,Economy,5
+Electronics,Lucknow,Priority,4
+Books,Kanpur,Economy,9
+Home Goods,Indore,Express,5
+Electronics,Mumbai,Economy,9
+Clothing,Bangalore,Economy,7
+Books,Surat,Economy,6
+Books,Kolkata,Economy,6
+Toys & Games,Lucknow,Standard,7
+Automotive,Ahmedabad,Economy,4
+Sports & Outdoors,Kanpur,Priority,3
+Home Goods,Delhi,Priority,3
+Books,Jaipur,Express,4
+Tools & Home Improvement,Indore,Priority,7
+Tools & Home Improvement,Hyderabad,Express,5
+Automotive,Bhopal,Priority,5
+Health & Household,Lucknow,Economy,6
+Health & Household,Surat,Economy,9
+Beauty & Personal Care,Kolkata,Economy,4
+Home Goods,Mumbai,Standard,6
+Toys & Games,Hyderabad,Economy,7
+Beauty & Personal Care,Indore,Standard,7
+Home Goods,Pune,Economy,5
+Clothing,Pune,Priority,2
+Tools & Home Improvement,Pune,Priority,2
+Clothing,Jaipur,Economy,6
+Books,Chennai,Priority,3
+Tools & Home Improvement,Ahmedabad,Economy,6
+Beauty & Personal Care,Indore,Express,7
+Automotive,Jaipur,Economy,6
+Beauty & Personal Care,Hyderabad,Economy,4
+Toys & Games,Surat,Express,5
+Home Goods,Pune,Express,1
+Automotive,Mumbai,Priority,3
+Electronics,Surat,Priority,3
+Beauty & Personal Care,Mumbai,Express,5
+Home Goods,Kolkata,Priority,1
+Home Goods,Mumbai,Express,4
+Clothing,Bangalore,Standard,4
+Sports & Outdoors,Indore,Priority,4
+Electronics,Mumbai,Priority,5
+Clothing,Chennai,Priority,1
+Beauty & Personal Care,Chennai,Priority,1
+Sports & Outdoors,Nagpur,Express,6
+Sports & Outdoors,Pune,Express,3
+Automotive,Nagpur,Express,4
+Beauty & Personal Care,Delhi,Standard,5
+Automotive,Kanpur,Economy,7
+Books,Chennai,Express,2
+Automotive,Indore,Priority,3
+Health & Household,Pune,Economy,4
+Books,Delhi,Economy,6
+Sports & Outdoors,Surat,Priority,5
+Toys & Games,Jaipur,Standard,5
+Health & Household,Nagpur,Priority,4
+Electronics,Jaipur,Standard,7
+Automotive,Surat,Standard,7
+Sports & Outdoors,Hyderabad,Economy,6
+Tools & Home Improvement,Delhi,Standard,5
+Beauty & Personal Care,Nagpur,Economy,10
+Books,Chennai,Priority,1
+Automotive,Indore,Priority,3
+Electronics,Hyderabad,Standard,4
+Toys & Games,Delhi,Express,4
+Books,Kanpur,Express,7
+Electronics,Hyderabad,Express,2
+Toys & Games,Bangalore,Priority,1
+Tools & Home Improvement,Lucknow,Standard,7
+Tools & Home Improvement,Ahmedabad,Priority,4
+Electronics,Kanpur,Standard,7
+Electronics,Delhi,Economy,7
+Books,Surat,Economy,9
+Health & Household,Mumbai,Economy,7
+Books,Delhi,Express,2
+Beauty & Personal Care,Bangalore,Economy,8
+Health & Household,Kolkata,Priority,1
+Beauty & Personal Care,Hyderabad,Standard,2
+Clothing,Bangalore,Economy,8
+Health & Household,Ahmedabad,Standard,2
+Electronics,Mumbai,Express,6
+Electronics,Hyderabad,Standard,6
+Tools & Home Improvement,Kolkata,Economy,6
+Home Goods,Pune,Priority,1
+Clothing,Lucknow,Express,6
+Health & Household,Nagpur,Express,5
+Clothing,Surat,Express,4
+Clothing,Ahmedabad,Economy,5
+Clothing,Ahmedabad,Express,1
+Tools & Home Improvement,Ahmedabad,Economy,8
+Automotive,Lucknow,Economy,9
+Beauty & Personal Care,Chennai,Priority,3
+Books,Kolkata,Express,1
+Home Goods,Kolkata,Express,4
+Sports & Outdoors,Lucknow,Express,4
+Beauty & Personal Care,Surat,Economy,9
+Tools & Home Improvement,Ahmedabad,Standard,3
+Home Goods,Kanpur,Express,6
+Tools & Home Improvement,Nagpur,Priority,4
+Clothing,Bangalore,Standard,4
+Automotive,Bhopal,Standard,7
+Clothing,Pune,Priority,1
+Home Goods,Chennai,Express,3
+Sports & Outdoors,Chennai,Priority,2
+Sports & Outdoors,Bhopal,Priority,4
+Electronics,Kolkata,Express,3
+Sports & Outdoors,Kanpur,Express,5
+Books,Surat,Express,6
+Automotive,Bhopal,Economy,7
+Health & Household,Bangalore,Economy,8
+Toys & Games,Hyderabad,Economy,7
+Health & Household,Chennai,Economy,7
+Home Goods,Kanpur,Express,4
+Toys & Games,Pune,Standard,3
+Sports & Outdoors,Bangalore,Express,3
+Books,Ahmedabad,Standard,5
+Electronics,Ahmedabad,Standard,4
+Toys & Games,Hyderabad,Standard,5
+Clothing,Mumbai,Express,3
+Sports & Outdoors,Bhopal,Express,4
+Home Goods,Mumbai,Standard,3
+Electronics,Hyderabad,Standard,4
+Health & Household,Pune,Express,1
+Sports & Outdoors,Surat,Economy,6
+Electronics,Hyderabad,Express,2
+Tools & Home Improvement,Hyderabad,Economy,5
+Books,Chennai,Express,2
+Toys & Games,Ahmedabad,Express,3
+Sports & Outdoors,Bangalore,Standard,6
+Sports & Outdoors,Pune,Standard,4
+Tools & Home Improvement,Kolkata,Priority,1
+Beauty & Personal Care,Kanpur,Priority,4
+Beauty & Personal Care,Bhopal,Standard,7
+Health & Household,Chennai,Priority,1
+Sports & Outdoors,Delhi,Priority,1
+Automotive,Lucknow,Priority,5
+Electronics,Delhi,Priority,4
+Home Goods,Hyderabad,Standard,2
+Automotive,Chennai,Express,2
+Toys & Games,Hyderabad,Economy,7
+Sports & Outdoors,Delhi,Economy,5
+Sports & Outdoors,Jaipur,Economy,8
+Health & Household,Mumbai,Priority,1
+Home Goods,Delhi,Economy,6
+Clothing,Kanpur,Priority,3
+Tools & Home Improvement,Delhi,Economy,7
+Toys & Games,Bangalore,Express,4
+Tools & Home Improvement,Pune,Economy,7
+Toys & Games,Kolkata,Standard,3
+Automotive,Kolkata,Standard,5
+Toys & Games,Hyderabad,Priority,2
+Health & Household,Bangalore,Express,3
+Home Goods,Hyderabad,Economy,4
+Toys & Games,Indore,Standard,7
+Sports & Outdoors,Chennai,Standard,6
+Electronics,Surat,Express,4
+Automotive,Nagpur,Standard,6
+Clothing,Surat,Express,5
+Clothing,Kolkata,Standard,4
+Automotive,Surat,Priority,3
+Health & Household,Chennai,Priority,3
+Toys & Games,Bhopal,Express,6
+Automotive,Surat,Priority,5
+Electronics,Delhi,Economy,6
+Books,Pune,Standard,5
+Health & Household,Ahmedabad,Priority,1
+Clothing,Jaipur,Express,5
+Clothing,Lucknow,Standard,6
+Electronics,Ahmedabad,Economy,6
+Books,Nagpur,Priority,6
+Electronics,Hyderabad,Express,2
+Clothing,Jaipur,Priority,3
+Automotive,Kolkata,Priority,1
+Books,Hyderabad,Standard,5
+Sports & Outdoors,Lucknow,Priority,4
+Clothing,Lucknow,Priority,5
+Sports & Outdoors,Jaipur,Standard,6
+Automotive,Pune,Express,1
+Automotive,Indore,Priority,4
+Beauty & Personal Care,Pune,Standard,4
+Beauty & Personal Care,Ahmedabad,Priority,3
+Automotive,Surat,Standard,4
+Sports & Outdoors,Jaipur,Standard,7
+Electronics,Lucknow,Express,6
+Health & Household,Indore,Express,4
+Books,Pune,Standard,5
+Books,Ahmedabad,Express,2
+Electronics,Kolkata,Economy,6
+Books,Pune,Express,2
+Toys & Games,Indore,Standard,8
+Automotive,Jaipur,Economy,8
+Books,Bhopal,Economy,10
+Toys & Games,Lucknow,Economy,9
+Toys & Games,Kolkata,Standard,2
+Automotive,Indore,Priority,6
+Clothing,Kanpur,Express,4
+Automotive,Mumbai,Standard,5
+Beauty & Personal Care,Lucknow,Express,6
+Tools & Home Improvement,Delhi,Express,4
+Automotive,Bhopal,Standard,6
+Sports & Outdoors,Nagpur,Priority,6
+Home Goods,Lucknow,Priority,4
+Automotive,Jaipur,Standard,4
+Electronics,Delhi,Express,6
+Toys & Games,Delhi,Standard,3
+Tools & Home Improvement,Indore,Priority,7
+Toys & Games,Jaipur,Express,4
+Sports & Outdoors,Hyderabad,Standard,5
+Beauty & Personal Care,Chennai,Standard,5
+Electronics,Delhi,Standard,5
+Electronics,Lucknow,Economy,7
+Electronics,Indore,Economy,8
+Toys & Games,Jaipur,Express,5
+Beauty & Personal Care,Indore,Standard,5
+Health & Household,Hyderabad,Express,4
+Books,Mumbai,Standard,6
+Beauty & Personal Care,Chennai,Standard,3
+Clothing,Ahmedabad,Priority,1
+Books,Pune,Express,1
+Sports & Outdoors,Mumbai,Standard,6
+Toys & Games,Mumbai,Express,5
+Toys & Games,Hyderabad,Standard,3
+Tools & Home Improvement,Lucknow,Priority,3
+Sports & Outdoors,Kanpur,Priority,6
+Books,Delhi,Standard,6
+Electronics,Surat,Standard,8
+Toys & Games,Nagpur,Economy,10
+Books,Kolkata,Express,4
+Books,Ahmedabad,Economy,5
+Health & Household,Hyderabad,Standard,3
+Health & Household,Nagpur,Economy,9
+Home Goods,Mumbai,Priority,4
+Home Goods,Kolkata,Express,4
+Beauty & Personal Care,Surat,Express,3
+Home Goods,Delhi,Priority,3
+Beauty & Personal Care,Delhi,Express,5
+Electronics,Surat,Express,6
+Beauty & Personal Care,Bangalore,Priority,3
+Home Goods,Ahmedabad,Express,4
+Beauty & Personal Care,Delhi,Express,2
+Health & Household,Kanpur,Express,7
+Tools & Home Improvement,Kolkata,Economy,6
+Health & Household,Nagpur,Standard,8
+Electronics,Pune,Economy,5
+Electronics,Nagpur,Priority,7
+Electronics,Kolkata,Standard,6
+Sports & Outdoors,Pune,Express,4
+Health & Household,Hyderabad,Economy,5
+Tools & Home Improvement,Ahmedabad,Economy,6
+Beauty & Personal Care,Mumbai,Express,2
+Electronics,Pune,Economy,8
+Beauty & Personal Care,Lucknow,Economy,6
+Toys & Games,Kanpur,Priority,3
+Electronics,Jaipur,Economy,9
+Toys & Games,Surat,Priority,4
+Beauty & Personal Care,Chennai,Priority,2
+Sports & Outdoors,Pune,Express,1
+Books,Jaipur,Standard,5
+Sports & Outdoors,Ahmedabad,Standard,2
+Health & Household,Jaipur,Express,4
+Clothing,Kolkata,Express,3
+Automotive,Bhopal,Economy,8
+Beauty & Personal Care,Jaipur,Priority,2
+Tools & Home Improvement,Indore,Economy,8
+Sports & Outdoors,Mumbai,Standard,4
+Beauty & Personal Care,Chennai,Priority,2
+Beauty & Personal Care,Nagpur,Express,4
+Tools & Home Improvement,Mumbai,Standard,4
+Clothing,Indore,Express,4
+Clothing,Jaipur,Standard,6
+Automotive,Jaipur,Priority,5
+Automotive,Pune,Economy,6
+Tools & Home Improvement,Indore,Priority,4
+Sports & Outdoors,Hyderabad,Economy,5
+Automotive,Delhi,Standard,6
+Tools & Home Improvement,Bangalore,Priority,5
+Home Goods,Bhopal,Economy,10
+Home Goods,Jaipur,Express,5
+Clothing,Nagpur,Standard,6
+Toys & Games,Delhi,Priority,4
+Sports & Outdoors,Bangalore,Economy,6
+Tools & Home Improvement,Ahmedabad,Express,2
+Electronics,Surat,Standard,8
+Electronics,Lucknow,Express,7
+Sports & Outdoors,Delhi,Express,5
+Tools & Home Improvement,Indore,Priority,4
+Electronics,Delhi,Priority,4
+Electronics,Kolkata,Economy,7
+Clothing,Mumbai,Standard,4
+Home Goods,Hyderabad,Economy,4
+Electronics,Mumbai,Standard,6
+Beauty & Personal Care,Ahmedabad,Economy,4
+Sports & Outdoors,Mumbai,Express,2
+Tools & Home Improvement,Hyderabad,Standard,4
+Books,Indore,Economy,10
+Beauty & Personal Care,Delhi,Priority,2
+Beauty & Personal Care,Pune,Standard,3
+Health & Household,Bangalore,Economy,5
+Sports & Outdoors,Kanpur,Express,7
+Health & Household,Nagpur,Standard,6
+Beauty & Personal Care,Bhopal,Express,7
+Clothing,Bhopal,Express,5
+Clothing,Hyderabad,Priority,1
+Clothing,Hyderabad,Express,3
+Clothing,Chennai,Standard,6
+Electronics,Pune,Economy,7
+Beauty & Personal Care,Delhi,Standard,4
+Home Goods,Ahmedabad,Priority,1
+Electronics,Bangalore,Express,6
+Sports & Outdoors,Indore,Economy,8
+Health & Household,Delhi,Economy,7
+Beauty & Personal Care,Hyderabad,Economy,7
+Clothing,Jaipur,Express,6
+Clothing,Bangalore,Express,5
+Health & Household,Lucknow,Standard,7
+Sports & Outdoors,Jaipur,Priority,3
+Toys & Games,Mumbai,Standard,4
+Health & Household,Hyderabad,Standard,3
+Home Goods,Mumbai,Standard,4
+Beauty & Personal Care,Bhopal,Standard,7
+Tools & Home Improvement,Surat,Economy,8
+Health & Household,Delhi,Standard,5
+Clothing,Indore,Economy,10
+Toys & Games,Bangalore,Standard,3
+Beauty & Personal Care,Jaipur,Priority,3
+Toys & Games,Chennai,Express,3
+Sports & Outdoors,Jaipur,Standard,6
+Books,Hyderabad,Standard,3
+Books,Jaipur,Express,4
+Automotive,Delhi,Priority,1
+Automotive,Pune,Express,1
+Home Goods,Nagpur,Economy,9
+Health & Household,Indore,Economy,10
+Tools & Home Improvement,Lucknow,Express,4
+Home Goods,Kolkata,Priority,1
+Toys & Games,Jaipur,Economy,6
+Health & Household,Mumbai,Express,4
+Tools & Home Improvement,Kanpur,Economy,9
+Electronics,Indore,Standard,7
+Beauty & Personal Care,Lucknow,Standard,6
+Tools & Home Improvement,Hyderabad,Standard,4
+Beauty & Personal Care,Lucknow,Economy,8
+Beauty & Personal Care,Chennai,Priority,1
+Automotive,Kolkata,Priority,3
+Books,Delhi,Express,3
+Electronics,Ahmedabad,Express,3
+Health & Household,Kanpur,Economy,9
+Tools & Home Improvement,Bangalore,Economy,7
+Beauty & Personal Care,Chennai,Express,3
+Books,Jaipur,Priority,4
+Beauty & Personal Care,Bhopal,Economy,8
+Automotive,Hyderabad,Economy,4
+Health & Household,Lucknow,Express,4
+Home Goods,Nagpur,Express,4
+Sports & Outdoors,Indore,Priority,6
+Beauty & Personal Care,Lucknow,Priority,3
+Toys & Games,Indore,Economy,10
+Toys & Games,Delhi,Standard,4
+Home Goods,Mumbai,Economy,8
+Home Goods,Lucknow,Economy,6
+Beauty & Personal Care,Kanpur,Standard,6
+Toys & Games,Bhopal,Priority,5
+Beauty & Personal Care,Chennai,Express,2
+Automotive,Surat,Priority,3
+Electronics,Kolkata,Economy,5
+Beauty & Personal Care,Bhopal,Express,6
+Automotive,Lucknow,Standard,6
+Automotive,Mumbai,Standard,5
+Electronics,Kanpur,Priority,6
+Tools & Home Improvement,Indore,Express,6
+Home Goods,Hyderabad,Standard,5
+Home Goods,Delhi,Standard,6
+Tools & Home Improvement,Ahmedabad,Standard,5
+Health & Household,Mumbai,Economy,5
+Automotive,Lucknow,Express,6
+Beauty & Personal Care,Surat,Express,4
+Tools & Home Improvement,Bangalore,Express,6
+Clothing,Ahmedabad,Standard,2
+Clothing,Jaipur,Standard,4
+Electronics,Hyderabad,Express,3
+Beauty & Personal Care,Jaipur,Economy,9
+Tools & Home Improvement,Nagpur,Standard,6
+Health & Household,Jaipur,Express,4
+Toys & Games,Pune,Economy,5
+Health & Household,Lucknow,Priority,2
+Home Goods,Lucknow,Express,5
+Tools & Home Improvement,Indore,Priority,7
+Books,Delhi,Standard,4
+Electronics,Bhopal,Economy,9
+Electronics,Pune,Economy,6
+Home Goods,Indore,Express,5
+Beauty & Personal Care,Chennai,Standard,4
+Beauty & Personal Care,Bhopal,Economy,9
+Tools & Home Improvement,Indore,Economy,10
+Electronics,Nagpur,Express,5
+Electronics,Bhopal,Express,8
+Clothing,Kanpur,Priority,5
+Beauty & Personal Care,Nagpur,Priority,3
+Toys & Games,Kolkata,Priority,1
+Home Goods,Delhi,Express,4
+Home Goods,Chennai,Express,2
+Books,Hyderabad,Economy,4
+Home Goods,Bhopal,Standard,8
+Electronics,Hyderabad,Priority,2
+Books,Delhi,Express,2
+Home Goods,Mumbai,Standard,6
+Clothing,Bangalore,Economy,8
+Books,Bhopal,Economy,8
+Beauty & Personal Care,Nagpur,Express,4
+Clothing,Hyderabad,Priority,1
+Health & Household,Surat,Priority,5
+Tools & Home Improvement,Indore,Economy,11
+Tools & Home Improvement,Chennai,Standard,6
+Beauty & Personal Care,Nagpur,Standard,6
+Tools & Home Improvement,Indore,Priority,7
+Books,Mumbai,Priority,4
+Tools & Home Improvement,Chennai,Standard,6
+Tools & Home Improvement,Delhi,Economy,7
+Tools & Home Improvement,Hyderabad,Express,5
+Toys & Games,Mumbai,Standard,4
+Automotive,Surat,Economy,6
+Beauty & Personal Care,Hyderabad,Priority,1
+Health & Household,Mumbai,Express,4
+Home Goods,Lucknow,Express,3
+Sports & Outdoors,Kolkata,Express,3
+Sports & Outdoors,Chennai,Priority,2
+Clothing,Mumbai,Express,2
+Sports & Outdoors,Nagpur,Economy,7
+Automotive,Bangalore,Priority,3
+Home Goods,Ahmedabad,Economy,5
+Electronics,Delhi,Standard,4
+Beauty & Personal Care,Kanpur,Priority,3
+Sports & Outdoors,Mumbai,Express,4
+Automotive,Bhopal,Priority,4
+Beauty & Personal Care,Hyderabad,Standard,2
+Toys & Games,Hyderabad,Standard,5
+Automotive,Lucknow,Standard,5
+Health & Household,Ahmedabad,Standard,2
+Automotive,Kolkata,Express,2
+Sports & Outdoors,Mumbai,Priority,4
+Health & Household,Mumbai,Priority,4
+Toys & Games,Indore,Express,5
+Books,Surat,Economy,9
+Electronics,Kanpur,Express,5
+Books,Indore,Express,7
+Toys & Games,Kanpur,Express,6
+Books,Bangalore,Standard,5
+Beauty & Personal Care,Indore,Priority,4
+Clothing,Surat,Economy,9
+Toys & Games,Chennai,Standard,3
+Toys & Games,Lucknow,Standard,5
+Tools & Home Improvement,Delhi,Economy,8
+Sports & Outdoors,Ahmedabad,Express,2
+Automotive,Delhi,Economy,7
+Health & Household,Indore,Express,7
+Health & Household,Kanpur,Priority,4
+Sports & Outdoors,Chennai,Priority,2
+Toys & Games,Mumbai,Priority,2
+Toys & Games,Jaipur,Express,6
+Health & Household,Mumbai,Economy,5
+Tools & Home Improvement,Pune,Standard,5
+Beauty & Personal Care,Bhopal,Standard,5
+Sports & Outdoors,Kanpur,Economy,10
+Home Goods,Indore,Standard,7
+Beauty & Personal Care,Mumbai,Economy,6
+Beauty & Personal Care,Nagpur,Standard,7
+Toys & Games,Delhi,Priority,1
+Sports & Outdoors,Ahmedabad,Economy,4
+Automotive,Jaipur,Priority,3
+Sports & Outdoors,Delhi,Express,5
+Home Goods,Surat,Economy,9
+Home Goods,Ahmedabad,Standard,4
+Toys & Games,Pune,Express,4
+Toys & Games,Lucknow,Express,3
+Home Goods,Hyderabad,Priority,1
+Tools & Home Improvement,Jaipur,Priority,3
+Electronics,Bhopal,Economy,11
+Sports & Outdoors,Hyderabad,Priority,2
+Electronics,Bangalore,Express,5
+Sports & Outdoors,Mumbai,Priority,1
+Home Goods,Pune,Express,1
+Home Goods,Jaipur,Economy,7
+Toys & Games,Pune,Express,4
+Books,Lucknow,Priority,5
+Beauty & Personal Care,Mumbai,Express,3
+Books,Delhi,Economy,6
+Toys & Games,Ahmedabad,Priority,1
+Health & Household,Nagpur,Priority,3
+Books,Bangalore,Express,2
+Health & Household,Lucknow,Express,6
+Automotive,Lucknow,Priority,2
+Electronics,Chennai,Economy,8
+Home Goods,Bhopal,Express,6
+Clothing,Ahmedabad,Economy,4
+Sports & Outdoors,Kanpur,Standard,7
+Home Goods,Pune,Express,1
+Electronics,Bangalore,Economy,7
+Toys & Games,Lucknow,Priority,2
+Clothing,Bhopal,Priority,4
+Beauty & Personal Care,Hyderabad,Standard,4
+Health & Household,Indore,Standard,8
+Beauty & Personal Care,Kolkata,Express,4
+Electronics,Hyderabad,Express,5
+Beauty & Personal Care,Indore,Express,6
+Tools & Home Improvement,Ahmedabad,Economy,6
+Electronics,Chennai,Priority,3
+Clothing,Kanpur,Standard,6
+Automotive,Jaipur,Economy,9
+Tools & Home Improvement,Pune,Priority,1
+Tools & Home Improvement,Surat,Priority,3
+Health & Household,Bangalore,Standard,6
+Health & Household,Bhopal,Express,5
+Health & Household,Lucknow,Standard,5
+Beauty & Personal Care,Mumbai,Economy,7
+Sports & Outdoors,Lucknow,Priority,5
+Beauty & Personal Care,Kolkata,Express,3
+Electronics,Delhi,Standard,4
+Beauty & Personal Care,Delhi,Economy,5
+Electronics,Delhi,Economy,7
+Automotive,Kanpur,Express,5
+Sports & Outdoors,Nagpur,Economy,7
+Tools & Home Improvement,Lucknow,Economy,9
+Sports & Outdoors,Lucknow,Priority,5
+Health & Household,Pune,Economy,4
+Automotive,Mumbai,Express,2
+Tools & Home Improvement,Bangalore,Priority,5
+Clothing,Bangalore,Priority,4
+Automotive,Pune,Priority,1
+Home Goods,Lucknow,Express,3
+Electronics,Delhi,Priority,4
+Toys & Games,Nagpur,Priority,4
+Health & Household,Mumbai,Standard,3
+Home Goods,Chennai,Economy,6
+Electronics,Surat,Express,5
+Toys & Games,Pune,Standard,2
+Tools & Home Improvement,Jaipur,Standard,5
+Automotive,Lucknow,Economy,6
+Beauty & Personal Care,Delhi,Standard,6
+Beauty & Personal Care,Delhi,Express,4
+Health & Household,Bangalore,Economy,5
+Beauty & Personal Care,Hyderabad,Express,4
+Toys & Games,Mumbai,Economy,8
+Clothing,Pune,Express,1
+Books,Surat,Express,5
+Automotive,Bhopal,Standard,5
+Home Goods,Kolkata,Express,4
+Tools & Home Improvement,Pune,Standard,6
+Sports & Outdoors,Surat,Express,6
+Toys & Games,Nagpur,Priority,3
+Tools & Home Improvement,Indore,Standard,6
+Sports & Outdoors,Pune,Standard,3
+Beauty & Personal Care,Hyderabad,Standard,4
+Automotive,Chennai,Standard,5
+Toys & Games,Indore,Express,7
+Sports & Outdoors,Jaipur,Priority,4
+Books,Surat,Priority,2
+Toys & Games,Kolkata,Standard,3
+Beauty & Personal Care,Kanpur,Standard,7
+Automotive,Kanpur,Priority,6
+Tools & Home Improvement,Delhi,Standard,7
+Beauty & Personal Care,Hyderabad,Standard,5
+Books,Chennai,Economy,5
+Home Goods,Indore,Express,7
+Automotive,Jaipur,Standard,5
+Clothing,Bangalore,Standard,6
+Toys & Games,Pune,Priority,2
+Home Goods,Bhopal,Economy,10
+Health & Household,Kolkata,Economy,4
+Beauty & Personal Care,Kanpur,Standard,7
+Sports & Outdoors,Ahmedabad,Standard,2
+Health & Household,Ahmedabad,Standard,2
+Home Goods,Nagpur,Express,5
+Toys & Games,Lucknow,Priority,4
+Electronics,Kolkata,Priority,2
+Tools & Home Improvement,Lucknow,Economy,8
+Electronics,Lucknow,Standard,8
+Clothing,Indore,Express,6
+Automotive,Hyderabad,Priority,3
+Health & Household,Bangalore,Economy,7
+Electronics,Ahmedabad,Standard,5
+Automotive,Surat,Economy,7
+Beauty & Personal Care,Surat,Priority,4
+Home Goods,Hyderabad,Standard,3
+Beauty & Personal Care,Ahmedabad,Priority,3
+Automotive,Lucknow,Economy,9
+Tools & Home Improvement,Hyderabad,Express,5
+Beauty & Personal Care,Mumbai,Economy,8
+Tools & Home Improvement,Hyderabad,Economy,5
+Clothing,Kanpur,Economy,9
+Home Goods,Mumbai,Standard,6
+Automotive,Indore,Priority,6
+Health & Household,Pune,Economy,5
+Home Goods,Ahmedabad,Standard,5
+Toys & Games,Bhopal,Priority,5
+Home Goods,Mumbai,Priority,4
+Toys & Games,Indore,Priority,4
+Books,Kolkata,Standard,3
+Toys & Games,Bangalore,Priority,1
+Clothing,Pune,Economy,5
+Tools & Home Improvement,Mumbai,Priority,4
+Home Goods,Nagpur,Standard,8
+Sports & Outdoors,Kolkata,Priority,3
+Books,Pune,Standard,5
+Beauty & Personal Care,Mumbai,Priority,1
+Automotive,Ahmedabad,Standard,2
+Beauty & Personal Care,Surat,Priority,4
+Clothing,Bhopal,Standard,6
+Toys & Games,Ahmedabad,Economy,6
+Books,Surat,Express,6
+Books,Ahmedabad,Standard,2
+Beauty & Personal Care,Indore,Economy,10
+Sports & Outdoors,Bhopal,Economy,8
+Books,Bhopal,Standard,8
+Automotive,Surat,Standard,7
+Sports & Outdoors,Bhopal,Standard,6
+Toys & Games,Delhi,Economy,6
+Automotive,Bangalore,Economy,7
+Automotive,Bangalore,Economy,8
+Books,Hyderabad,Economy,4
+Beauty & Personal Care,Lucknow,Express,5
+Toys & Games,Pune,Standard,5
+Home Goods,Kolkata,Standard,4
+Tools & Home Improvement,Kanpur,Economy,9
+Toys & Games,Bangalore,Express,4
+Books,Indore,Economy,7
+Home Goods,Pune,Standard,5
+Toys & Games,Bhopal,Priority,5
+Electronics,Surat,Priority,3
+Clothing,Bangalore,Priority,3
+Toys & Games,Lucknow,Priority,3
+Automotive,Mumbai,Economy,7
+Health & Household,Surat,Priority,3
+Books,Pune,Priority,1
+Automotive,Surat,Priority,5
+Sports & Outdoors,Chennai,Standard,6
+Automotive,Ahmedabad,Express,2
+Sports & Outdoors,Kolkata,Economy,7
+Toys & Games,Pune,Economy,7
+Sports & Outdoors,Jaipur,Economy,6
+Automotive,Hyderabad,Express,3
+Electronics,Nagpur,Priority,4
+Clothing,Indore,Priority,5
+Beauty & Personal Care,Bhopal,Economy,7
+Health & Household,Mumbai,Economy,5
+Tools & Home Improvement,Chennai,Express,6
+Sports & Outdoors,Surat,Standard,5
+Automotive,Kolkata,Express,4
+Books,Pune,Economy,7
+Books,Mumbai,Standard,3
+Home Goods,Ahmedabad,Standard,4
+Books,Mumbai,Standard,5
+Home Goods,Bangalore,Economy,8
+Clothing,Kolkata,Standard,3
+Clothing,Nagpur,Standard,6
+Health & Household,Nagpur,Priority,5
+Sports & Outdoors,Chennai,Express,5
+Tools & Home Improvement,Mumbai,Priority,2
+Tools & Home Improvement,Chennai,Express,6
+Toys & Games,Mumbai,Economy,6
+Automotive,Surat,Economy,7
+Toys & Games,Lucknow,Priority,5
+Automotive,Mumbai,Priority,1
+Electronics,Nagpur,Priority,6
+Electronics,Kanpur,Economy,9
+Sports & Outdoors,Kanpur,Standard,5
+Toys & Games,Pune,Standard,3
+Electronics,Delhi,Priority,5
+Electronics,Nagpur,Priority,7
+Home Goods,Bangalore,Standard,5
+Books,Mumbai,Priority,1
+Clothing,Kanpur,Standard,8
+Electronics,Bhopal,Express,5
+Beauty & Personal Care,Indore,Express,7
+Books,Delhi,Standard,6
+Beauty & Personal Care,Pune,Express,4
+Automotive,Delhi,Express,3
+Toys & Games,Kanpur,Standard,7
+Clothing,Delhi,Standard,4
+Toys & Games,Bhopal,Priority,4
+Home Goods,Jaipur,Economy,9
+Automotive,Kanpur,Standard,5
+Health & Household,Jaipur,Standard,7
+Home Goods,Bhopal,Priority,6
+Automotive,Chennai,Priority,1
+Tools & Home Improvement,Nagpur,Standard,7
+Sports & Outdoors,Ahmedabad,Priority,1
+Clothing,Ahmedabad,Economy,6
+Tools & Home Improvement,Mumbai,Economy,7
+Tools & Home Improvement,Jaipur,Express,6
+Toys & Games,Kanpur,Standard,7
+Home Goods,Bangalore,Express,3
+Books,Chennai,Economy,5
+Automotive,Kolkata,Priority,1
+Beauty & Personal Care,Hyderabad,Express,3
+Automotive,Lucknow,Priority,5
+Health & Household,Kolkata,Priority,1
+Health & Household,Jaipur,Priority,4
+Toys & Games,Kolkata,Express,4
+Health & Household,Surat,Express,4
+Electronics,Chennai,Economy,8
+Sports & Outdoors,Delhi,Express,2
+Beauty & Personal Care,Pune,Express,3
+Home Goods,Surat,Priority,4
+Electronics,Nagpur,Priority,5
+Toys & Games,Pune,Economy,6
+Automotive,Bangalore,Express,3
+Clothing,Lucknow,Priority,2
+Automotive,Chennai,Standard,3
+Clothing,Indore,Economy,10
+Electronics,Ahmedabad,Express,3
+Beauty & Personal Care,Bangalore,Economy,7
+Toys & Games,Kanpur,Express,6
+Electronics,Mumbai,Priority,2
+Sports & Outdoors,Delhi,Express,2
+Sports & Outdoors,Ahmedabad,Express,4
+Clothing,Indore,Economy,9
+Sports & Outdoors,Bangalore,Economy,5
+Books,Indore,Express,4
+Beauty & Personal Care,Indore,Economy,7
+Tools & Home Improvement,Chennai,Priority,3
+Tools & Home Improvement,Chennai,Priority,4
+Electronics,Pune,Economy,6
+Home Goods,Hyderabad,Express,4
+Clothing,Indore,Priority,3
+Clothing,Jaipur,Priority,3
+Clothing,Mumbai,Express,3
+Home Goods,Pune,Standard,3
+Sports & Outdoors,Hyderabad,Express,4
+Home Goods,Delhi,Standard,3
+Automotive,Hyderabad,Priority,3
+Toys & Games,Ahmedabad,Economy,5
+Books,Jaipur,Standard,4
+Sports & Outdoors,Bhopal,Standard,8
+Health & Household,Chennai,Standard,6
+Electronics,Bangalore,Economy,7
+Electronics,Pune,Express,2
+Sports & Outdoors,Pune,Express,1
+Health & Household,Kolkata,Economy,4
+Home Goods,Bangalore,Express,2
+Sports & Outdoors,Bangalore,Express,2
+Tools & Home Improvement,Kolkata,Express,4
+Electronics,Bhopal,Economy,9
+Books,Lucknow,Standard,4
+Automotive,Mumbai,Express,4
+Books,Kolkata,Priority,2
+Toys & Games,Hyderabad,Express,4
+Home Goods,Chennai,Priority,2
+Health & Household,Kolkata,Express,1
+Beauty & Personal Care,Surat,Express,5
+Home Goods,Ahmedabad,Economy,5
+Home Goods,Indore,Express,7
+Health & Household,Lucknow,Standard,5
+Health & Household,Delhi,Economy,5
+Beauty & Personal Care,Kanpur,Priority,6
+Sports & Outdoors,Mumbai,Standard,4
+Health & Household,Jaipur,Standard,7
+Tools & Home Improvement,Jaipur,Economy,10
+Books,Bangalore,Express,5
+Books,Chennai,Express,4
+Health & Household,Surat,Standard,7
+Beauty & Personal Care,Bangalore,Economy,6
+Home Goods,Kanpur,Express,4
+Toys & Games,Bhopal,Express,7
+Clothing,Indore,Economy,7
+Automotive,Kanpur,Economy,8
+Tools & Home Improvement,Pune,Express,4
+Tools & Home Improvement,Kanpur,Standard,6
+Toys & Games,Ahmedabad,Economy,7
+Books,Kanpur,Priority,4
+Toys & Games,Kanpur,Economy,10
+Health & Household,Delhi,Standard,6
+Beauty & Personal Care,Indore,Standard,5
+Health & Household,Kolkata,Economy,4
+Toys & Games,Ahmedabad,Priority,2
+Clothing,Chennai,Standard,6
+Beauty & Personal Care,Hyderabad,Standard,4
+Tools & Home Improvement,Lucknow,Standard,6
+Books,Bhopal,Standard,8
+Health & Household,Chennai,Express,5
+Beauty & Personal Care,Bhopal,Express,4
+Sports & Outdoors,Hyderabad,Standard,5
+Tools & Home Improvement,Chennai,Economy,9
+Clothing,Nagpur,Standard,5
+Toys & Games,Jaipur,Express,5
+Health & Household,Surat,Economy,6
+Automotive,Lucknow,Standard,6
+Beauty & Personal Care,Kanpur,Express,6
+Electronics,Ahmedabad,Economy,5
+Tools & Home Improvement,Jaipur,Standard,6
+Toys & Games,Hyderabad,Priority,2
+Sports & Outdoors,Bangalore,Priority,4
+Sports & Outdoors,Indore,Express,7
+Clothing,Indore,Priority,4
+Sports & Outdoors,Surat,Standard,4
+Sports & Outdoors,Bhopal,Economy,9
+Electronics,Bangalore,Standard,5
+Clothing,Bangalore,Priority,3
+Home Goods,Indore,Priority,3
+Sports & Outdoors,Hyderabad,Economy,6
+Home Goods,Lucknow,Priority,4
+Home Goods,Bangalore,Economy,5
+Automotive,Hyderabad,Express,2
+Home Goods,Nagpur,Priority,6
+Tools & Home Improvement,Surat,Economy,8
+Home Goods,Bhopal,Standard,7
+Toys & Games,Kolkata,Economy,6
+Electronics,Delhi,Economy,7
+Health & Household,Kolkata,Standard,3
+Electronics,Ahmedabad,Express,2
+Tools & Home Improvement,Delhi,Express,4
+Toys & Games,Indore,Express,7
+Beauty & Personal Care,Jaipur,Priority,4
+Electronics,Bangalore,Economy,6
+Books,Surat,Express,6
+Sports & Outdoors,Nagpur,Economy,9
+Toys & Games,Ahmedabad,Economy,4
+Sports & Outdoors,Indore,Priority,4
+Sports & Outdoors,Kolkata,Express,3
+Sports & Outdoors,Hyderabad,Standard,3
+Health & Household,Kanpur,Standard,5
+Automotive,Nagpur,Priority,3
+Electronics,Jaipur,Standard,7
+Automotive,Delhi,Economy,5
+Beauty & Personal Care,Surat,Standard,5
+Tools & Home Improvement,Nagpur,Priority,6
+Clothing,Bangalore,Express,3
+Clothing,Nagpur,Express,6
+Automotive,Kolkata,Economy,6
+Toys & Games,Indore,Standard,5
+Beauty & Personal Care,Delhi,Standard,5
+Home Goods,Nagpur,Economy,8
+Toys & Games,Hyderabad,Economy,7
+Books,Ahmedabad,Express,4
+Home Goods,Delhi,Express,2
+Sports & Outdoors,Kanpur,Priority,6
+Books,Ahmedabad,Priority,2
+Clothing,Surat,Express,3
+Books,Chennai,Priority,3
+Clothing,Chennai,Standard,6
+Clothing,Bangalore,Economy,7
+Tools & Home Improvement,Jaipur,Economy,10
+Books,Lucknow,Express,6
+Toys & Games,Kolkata,Priority,3
+Home Goods,Nagpur,Standard,8
+Home Goods,Kanpur,Express,7
+Clothing,Chennai,Priority,4
+Beauty & Personal Care,Delhi,Economy,7
+Tools & Home Improvement,Ahmedabad,Priority,1
+Clothing,Pune,Express,1
+Toys & Games,Bhopal,Priority,5
+Automotive,Indore,Economy,10
+Health & Household,Kanpur,Express,7
+Beauty & Personal Care,Indore,Economy,10
+Automotive,Jaipur,Priority,2
+Automotive,Surat,Priority,2
+Home Goods,Mumbai,Economy,8
+Home Goods,Chennai,Express,3
+Toys & Games,Bhopal,Standard,7
+Home Goods,Lucknow,Standard,5
+Automotive,Bhopal,Economy,7
+Home Goods,Indore,Standard,6
+Sports & Outdoors,Surat,Standard,7
+Electronics,Ahmedabad,Express,2
+Books,Jaipur,Priority,4
+Automotive,Delhi,Priority,1
+Electronics,Chennai,Economy,8
+Beauty & Personal Care,Mumbai,Express,5
+Clothing,Indore,Express,6
+Tools & Home Improvement,Chennai,Standard,5
+Home Goods,Ahmedabad,Priority,1
+Automotive,Pune,Economy,7
+Automotive,Kolkata,Standard,5
+Electronics,Indore,Express,8
+Clothing,Ahmedabad,Standard,4
+Health & Household,Mumbai,Express,5
+Automotive,Chennai,Priority,4
+Toys & Games,Lucknow,Express,6
+Health & Household,Pune,Priority,1
+Beauty & Personal Care,Mumbai,Standard,4
+Electronics,Kolkata,Standard,5
+Clothing,Mumbai,Priority,2
+Clothing,Ahmedabad,Priority,2
+Automotive,Surat,Standard,4
+Tools & Home Improvement,Bhopal,Standard,7
+Books,Nagpur,Economy,8
+Automotive,Kanpur,Express,4
+Home Goods,Nagpur,Priority,5
+Books,Pune,Economy,4
+Health & Household,Hyderabad,Priority,3
+Books,Kanpur,Standard,7
+Sports & Outdoors,Surat,Priority,4
+Beauty & Personal Care,Bhopal,Express,6
+Clothing,Ahmedabad,Express,2
+Electronics,Ahmedabad,Priority,4
+Home Goods,Kolkata,Priority,3
+Electronics,Delhi,Economy,6
+Toys & Games,Kanpur,Priority,5
+Beauty & Personal Care,Ahmedabad,Priority,2
+Automotive,Kanpur,Standard,5
+Automotive,Mumbai,Priority,4
+Electronics,Mumbai,Standard,4
+Home Goods,Hyderabad,Priority,3
+Tools & Home Improvement,Ahmedabad,Priority,3
+Home Goods,Bangalore,Express,4
+Books,Indore,Economy,9
+Health & Household,Indore,Standard,5
+Tools & Home Improvement,Delhi,Standard,5
+Clothing,Nagpur,Priority,6
+Electronics,Lucknow,Priority,4
+Sports & Outdoors,Bangalore,Express,5
+Automotive,Kanpur,Express,4
+Clothing,Delhi,Express,4
+Books,Jaipur,Economy,8
+Electronics,Nagpur,Economy,8
+Home Goods,Mumbai,Economy,5
+Beauty & Personal Care,Nagpur,Economy,8
+Clothing,Lucknow,Priority,5
+Sports & Outdoors,Hyderabad,Economy,6
+Clothing,Jaipur,Economy,6
+Books,Bhopal,Standard,8
+Tools & Home Improvement,Kolkata,Economy,7
+Automotive,Hyderabad,Standard,5
+Automotive,Indore,Priority,4
+Books,Kanpur,Economy,8
+Tools & Home Improvement,Bangalore,Priority,4
+Health & Household,Hyderabad,Priority,3
+Books,Bhopal,Priority,5
+Home Goods,Jaipur,Economy,9
+Sports & Outdoors,Indore,Priority,4
+Toys & Games,Indore,Standard,8
+Books,Bhopal,Priority,5
+Toys & Games,Hyderabad,Economy,4
+Home Goods,Mumbai,Economy,6
+Toys & Games,Hyderabad,Express,3
+Sports & Outdoors,Chennai,Express,2
+Toys & Games,Delhi,Economy,8
+Tools & Home Improvement,Ahmedabad,Priority,4
+Beauty & Personal Care,Bhopal,Express,7
+Toys & Games,Bangalore,Standard,6
+Electronics,Indore,Express,8
+Sports & Outdoors,Lucknow,Express,6
+Toys & Games,Kolkata,Priority,3
+Sports & Outdoors,Pune,Standard,5
+Toys & Games,Nagpur,Standard,8
+Toys & Games,Indore,Standard,5
+Beauty & Personal Care,Nagpur,Standard,7
+Beauty & Personal Care,Hyderabad,Express,2
+Automotive,Bangalore,Standard,4
+Health & Household,Lucknow,Priority,5
+Books,Indore,Priority,3
+Tools & Home Improvement,Delhi,Express,4
+Clothing,Mumbai,Standard,3
+Sports & Outdoors,Lucknow,Priority,3
+Automotive,Lucknow,Priority,3
+Clothing,Delhi,Standard,5
+Books,Bhopal,Standard,7
+Beauty & Personal Care,Chennai,Standard,5
+Sports & Outdoors,Nagpur,Economy,9
+Health & Household,Chennai,Economy,8
+Health & Household,Ahmedabad,Express,3
+Electronics,Indore,Priority,4
+Sports & Outdoors,Bangalore,Economy,5
+Books,Hyderabad,Economy,5
+Toys & Games,Pune,Express,1
+Clothing,Bangalore,Economy,8
+Automotive,Bangalore,Standard,3
+Electronics,Delhi,Express,5
+Beauty & Personal Care,Indore,Standard,6
+Health & Household,Pune,Priority,2
+Home Goods,Mumbai,Express,4
+Home Goods,Kolkata,Express,2
+Books,Chennai,Standard,6
+Electronics,Lucknow,Standard,5
+Health & Household,Nagpur,Economy,9
+Beauty & Personal Care,Indore,Standard,7
+Electronics,Chennai,Express,4
+Tools & Home Improvement,Lucknow,Priority,6
+Sports & Outdoors,Mumbai,Standard,4
+Books,Ahmedabad,Standard,4
+Health & Household,Kolkata,Express,4
+Beauty & Personal Care,Hyderabad,Express,4
+Home Goods,Kanpur,Standard,7
+Clothing,Mumbai,Priority,2
+Sports & Outdoors,Pune,Priority,1
+Automotive,Bhopal,Priority,3
+Books,Indore,Standard,5
+Toys & Games,Indore,Priority,4
+Health & Household,Ahmedabad,Economy,4
+Home Goods,Kolkata,Express,1
+Home Goods,Delhi,Standard,4
+Toys & Games,Nagpur,Express,7
+Home Goods,Jaipur,Express,4
+Beauty & Personal Care,Hyderabad,Priority,1
+Toys & Games,Indore,Economy,7
+Toys & Games,Indore,Standard,6
+Tools & Home Improvement,Hyderabad,Express,4
+Sports & Outdoors,Kanpur,Economy,9
+Beauty & Personal Care,Delhi,Express,4
+Clothing,Pune,Priority,3
+Health & Household,Ahmedabad,Economy,6
+Books,Bangalore,Express,3
+Tools & Home Improvement,Surat,Standard,7
+Tools & Home Improvement,Indore,Express,6
+Electronics,Lucknow,Express,6
+Tools & Home Improvement,Lucknow,Standard,5
+Beauty & Personal Care,Mumbai,Economy,8
+Clothing,Hyderabad,Standard,2
+Sports & Outdoors,Kanpur,Express,6
+Health & Household,Nagpur,Economy,10
+Electronics,Nagpur,Economy,11
+Toys & Games,Kolkata,Priority,3
+Beauty & Personal Care,Indore,Express,6
+Beauty & Personal Care,Pune,Economy,6
+Sports & Outdoors,Indore,Economy,9
+Beauty & Personal Care,Surat,Standard,6
+Home Goods,Indore,Economy,10
+Electronics,Hyderabad,Priority,3
+Toys & Games,Nagpur,Standard,6
+Health & Household,Surat,Express,6
+Home Goods,Kolkata,Standard,2
+Sports & Outdoors,Bangalore,Standard,5
+Tools & Home Improvement,Lucknow,Express,5
+Electronics,Hyderabad,Standard,4
+Electronics,Hyderabad,Priority,2
+Home Goods,Bhopal,Priority,6
+Health & Household,Kanpur,Standard,8
+Sports & Outdoors,Chennai,Standard,4
+Clothing,Pune,Economy,6
+Clothing,Chennai,Priority,2
+Sports & Outdoors,Hyderabad,Priority,1
+Books,Jaipur,Economy,7
+Electronics,Pune,Express,3
+Home Goods,Kolkata,Priority,1
+Home Goods,Kanpur,Express,5
+Sports & Outdoors,Chennai,Economy,6
+Clothing,Chennai,Standard,3
+Health & Household,Indore,Priority,3
+Sports & Outdoors,Mumbai,Priority,4
+Clothing,Chennai,Economy,8
+Books,Jaipur,Standard,6
+Electronics,Bhopal,Priority,6
+Electronics,Bangalore,Priority,2
+Home Goods,Bhopal,Express,7
+Toys & Games,Jaipur,Express,3
+Home Goods,Ahmedabad,Express,2
+Toys & Games,Pune,Standard,3
+Toys & Games,Surat,Economy,6
+Tools & Home Improvement,Lucknow,Priority,4
+Tools & Home Improvement,Delhi,Priority,5
+Health & Household,Nagpur,Standard,5
+Toys & Games,Bangalore,Economy,8
+Tools & Home Improvement,Indore,Priority,6
+Toys & Games,Mumbai,Economy,7
+Home Goods,Indore,Priority,6
+Health & Household,Hyderabad,Standard,4
+Toys & Games,Chennai,Standard,4
+Electronics,Mumbai,Express,5
+Beauty & Personal Care,Pune,Express,1
+Toys & Games,Kolkata,Economy,6
+Toys & Games,Lucknow,Standard,4
+Tools & Home Improvement,Bhopal,Priority,4
+Clothing,Hyderabad,Express,2
+Sports & Outdoors,Delhi,Priority,2
+Beauty & Personal Care,Hyderabad,Priority,1
+Automotive,Mumbai,Priority,4
+Health & Household,Kolkata,Standard,4
+Home Goods,Hyderabad,Economy,7
+Clothing,Ahmedabad,Standard,3
+Electronics,Chennai,Priority,5
+Health & Household,Kanpur,Priority,3
+Beauty & Personal Care,Jaipur,Economy,9
+Beauty & Personal Care,Mumbai,Economy,5
+Beauty & Personal Care,Hyderabad,Economy,5
+Home Goods,Indore,Express,5
+Books,Chennai,Standard,3
+Health & Household,Pune,Priority,2
+Home Goods,Chennai,Economy,6
+Electronics,Bangalore,Economy,6
+Books,Bangalore,Express,5
+Automotive,Chennai,Priority,4
+Sports & Outdoors,Chennai,Express,5
+Tools & Home Improvement,Bhopal,Express,5
+Clothing,Indore,Express,6
+Beauty & Personal Care,Bangalore,Express,3
+Toys & Games,Bhopal,Economy,10
+Automotive,Nagpur,Economy,9
+Books,Nagpur,Express,7
+Sports & Outdoors,Lucknow,Economy,9
+Electronics,Kanpur,Standard,6
+Health & Household,Bangalore,Economy,5
+Sports & Outdoors,Bangalore,Express,3
+Beauty & Personal Care,Mumbai,Economy,5
+Home Goods,Chennai,Economy,7
+Sports & Outdoors,Mumbai,Economy,8
+Electronics,Mumbai,Economy,6
+Automotive,Surat,Standard,4
+Electronics,Pune,Priority,4
+Beauty & Personal Care,Delhi,Express,3
+Beauty & Personal Care,Kolkata,Standard,5
+Clothing,Mumbai,Standard,3
+Books,Jaipur,Economy,7
+Clothing,Indore,Economy,9
+Tools & Home Improvement,Bangalore,Express,5
+Automotive,Bhopal,Express,6
+Beauty & Personal Care,Mumbai,Express,2
+Toys & Games,Chennai,Express,5
+Home Goods,Surat,Express,4
+Books,Bangalore,Economy,7
+Sports & Outdoors,Surat,Standard,6
+Home Goods,Chennai,Express,3
+Health & Household,Kolkata,Express,1
+Sports & Outdoors,Lucknow,Priority,4
+Automotive,Nagpur,Standard,8
+Books,Surat,Standard,7
+Health & Household,Nagpur,Priority,3
+Home Goods,Bangalore,Standard,4
+Books,Ahmedabad,Express,4
+Sports & Outdoors,Bhopal,Priority,5
+Home Goods,Ahmedabad,Express,3
+Electronics,Ahmedabad,Standard,3
+Electronics,Bangalore,Standard,5
+Beauty & Personal Care,Mumbai,Priority,1
+Sports & Outdoors,Delhi,Economy,8
+Automotive,Mumbai,Priority,4
+Beauty & Personal Care,Chennai,Economy,5
+Health & Household,Nagpur,Standard,5
+Health & Household,Lucknow,Express,5
+Toys & Games,Kolkata,Economy,7
+Automotive,Jaipur,Standard,6
+Automotive,Delhi,Express,5
+Books,Mumbai,Economy,8
+Toys & Games,Pune,Express,4
+Electronics,Nagpur,Express,5
+Toys & Games,Nagpur,Standard,8
+Sports & Outdoors,Hyderabad,Economy,4
+Electronics,Mumbai,Economy,6
+Sports & Outdoors,Mumbai,Standard,5
+Health & Household,Lucknow,Standard,4
+Automotive,Lucknow,Express,4
+Books,Bhopal,Economy,10
+Books,Indore,Express,6
+Automotive,Hyderabad,Economy,5
+Toys & Games,Hyderabad,Priority,2
+Health & Household,Indore,Standard,5
+Books,Indore,Express,6
+Automotive,Ahmedabad,Economy,5
+Health & Household,Pune,Priority,2
+Health & Household,Pune,Express,2
+Sports & Outdoors,Indore,Priority,4
+Electronics,Ahmedabad,Economy,5
+Tools & Home Improvement,Kanpur,Economy,9
+Beauty & Personal Care,Jaipur,Express,6
+Toys & Games,Chennai,Economy,7
+Books,Jaipur,Priority,2
+Automotive,Indore,Standard,5
+Electronics,Jaipur,Priority,4
+Home Goods,Kolkata,Express,3
+Health & Household,Mumbai,Economy,6
+Tools & Home Improvement,Bangalore,Priority,2
+Automotive,Surat,Express,6
+Automotive,Surat,Economy,7
+Automotive,Delhi,Standard,6
+Toys & Games,Pune,Standard,4
+Health & Household,Delhi,Priority,4
+Books,Bhopal,Express,7
+Toys & Games,Jaipur,Standard,6
+Tools & Home Improvement,Nagpur,Priority,4
+Electronics,Mumbai,Express,5
+Books,Pune,Economy,7
+Toys & Games,Lucknow,Standard,4
+Sports & Outdoors,Ahmedabad,Express,4
+Toys & Games,Nagpur,Priority,3
+Electronics,Nagpur,Express,8
+Beauty & Personal Care,Surat,Economy,8
+Clothing,Lucknow,Priority,4
+Clothing,Mumbai,Economy,5
+Tools & Home Improvement,Chennai,Priority,3
+Tools & Home Improvement,Bhopal,Economy,10
+Sports & Outdoors,Hyderabad,Express,4
+Books,Mumbai,Economy,7
+Automotive,Bangalore,Economy,5
+Automotive,Lucknow,Economy,9
+Toys & Games,Jaipur,Standard,7
+Clothing,Jaipur,Priority,3
+Tools & Home Improvement,Mumbai,Priority,4
+Toys & Games,Surat,Priority,3
+Clothing,Mumbai,Standard,5
+Electronics,Bhopal,Express,8
+Beauty & Personal Care,Surat,Express,4
+Electronics,Kolkata,Priority,1
+Tools & Home Improvement,Mumbai,Priority,5
+Tools & Home Improvement,Jaipur,Economy,10
+Tools & Home Improvement,Jaipur,Economy,9
+Books,Surat,Standard,5
+Toys & Games,Bhopal,Priority,6
+Clothing,Mumbai,Standard,4
+Electronics,Kolkata,Express,5
+Books,Kolkata,Express,2
+Tools & Home Improvement,Kanpur,Express,7
+Sports & Outdoors,Kolkata,Economy,5
+Health & Household,Lucknow,Priority,5
+Toys & Games,Lucknow,Economy,6
+Health & Household,Bangalore,Express,4
+Books,Surat,Priority,5
+Clothing,Ahmedabad,Standard,4
+Sports & Outdoors,Hyderabad,Economy,7
+Books,Chennai,Priority,1
+Home Goods,Kolkata,Priority,1
+Health & Household,Bangalore,Standard,3
+Beauty & Personal Care,Kolkata,Standard,3
+Tools & Home Improvement,Bhopal,Express,6
+Clothing,Pune,Priority,1
+Beauty & Personal Care,Pune,Express,1
+Sports & Outdoors,Bhopal,Express,7
+Sports & Outdoors,Pune,Standard,2
+Health & Household,Bhopal,Express,6
+Toys & Games,Indore,Express,5
+Beauty & Personal Care,Mumbai,Standard,5
+Toys & Games,Ahmedabad,Economy,4
+Beauty & Personal Care,Ahmedabad,Economy,6
+Automotive,Delhi,Express,3
+Electronics,Nagpur,Priority,6
+Books,Kanpur,Priority,5
+Toys & Games,Surat,Express,6
+Health & Household,Mumbai,Standard,3
+Electronics,Delhi,Express,4
+Home Goods,Mumbai,Express,4
+Electronics,Lucknow,Standard,5
+Electronics,Surat,Standard,7
+Books,Bangalore,Standard,4
+Beauty & Personal Care,Delhi,Priority,2
+Tools & Home Improvement,Mumbai,Express,3
+Clothing,Indore,Priority,3
+Books,Delhi,Economy,5
+Toys & Games,Nagpur,Standard,8
+Books,Nagpur,Express,4
+Beauty & Personal Care,Lucknow,Express,4
+Beauty & Personal Care,Ahmedabad,Priority,2
+Health & Household,Chennai,Economy,8
+Books,Jaipur,Express,3
+Home Goods,Chennai,Priority,4
+Automotive,Mumbai,Express,3
+Electronics,Nagpur,Economy,11
+Clothing,Pune,Economy,5
+Sports & Outdoors,Nagpur,Priority,3
+Sports & Outdoors,Jaipur,Standard,4
+Books,Hyderabad,Express,2
+Health & Household,Kolkata,Economy,6
+Electronics,Jaipur,Economy,10
+Sports & Outdoors,Mumbai,Express,3
+Health & Household,Chennai,Express,5
+Clothing,Kanpur,Priority,6
+Health & Household,Kolkata,Economy,4
+Automotive,Kolkata,Standard,5
+Clothing,Jaipur,Economy,8
+Tools & Home Improvement,Lucknow,Standard,7
+Clothing,Lucknow,Economy,7
+Clothing,Chennai,Standard,6
+Clothing,Chennai,Economy,7
+Automotive,Indore,Economy,8
+Home Goods,Kanpur,Express,7
+Automotive,Delhi,Economy,6
+Automotive,Mumbai,Express,5
+Tools & Home Improvement,Jaipur,Priority,4
+Beauty & Personal Care,Nagpur,Standard,8
+Beauty & Personal Care,Mumbai,Priority,4
+Automotive,Hyderabad,Standard,5
+Toys & Games,Lucknow,Economy,8
+Books,Delhi,Economy,6
+Sports & Outdoors,Jaipur,Economy,7
+Beauty & Personal Care,Chennai,Express,2
+Tools & Home Improvement,Jaipur,Standard,6
+Home Goods,Ahmedabad,Express,1
+Books,Surat,Economy,7
+Books,Pune,Express,3
+Beauty & Personal Care,Kolkata,Standard,4
+Sports & Outdoors,Bhopal,Economy,10
+Clothing,Chennai,Economy,8
+Books,Bhopal,Express,5
+Health & Household,Delhi,Economy,5
+Health & Household,Lucknow,Priority,5
+Automotive,Pune,Priority,3
+Electronics,Pune,Express,5
+Sports & Outdoors,Jaipur,Priority,5
+Clothing,Indore,Priority,4
+Tools & Home Improvement,Indore,Standard,7
+Home Goods,Mumbai,Express,5
+Beauty & Personal Care,Mumbai,Priority,1
+Books,Bangalore,Standard,5
+Home Goods,Bhopal,Express,7
+Beauty & Personal Care,Ahmedabad,Economy,4
+Health & Household,Chennai,Priority,3
+Sports & Outdoors,Delhi,Express,2
+Tools & Home Improvement,Indore,Standard,6
+Clothing,Indore,Priority,5
+Books,Jaipur,Standard,7
+Tools & Home Improvement,Bhopal,Priority,5
+Beauty & Personal Care,Ahmedabad,Economy,5
+Books,Bhopal,Standard,8
+Automotive,Ahmedabad,Express,4
+Books,Delhi,Economy,6
+Books,Kolkata,Standard,3
+Health & Household,Hyderabad,Priority,1
+Sports & Outdoors,Jaipur,Express,5
+Beauty & Personal Care,Nagpur,Express,4
+Sports & Outdoors,Ahmedabad,Standard,2
+Books,Indore,Standard,8
+Toys & Games,Bhopal,Express,5
+Books,Kanpur,Priority,6
+Books,Ahmedabad,Economy,7
+Sports & Outdoors,Bhopal,Priority,4
+Books,Surat,Standard,4
+Electronics,Pune,Standard,3
+Clothing,Pune,Express,1
+Automotive,Kanpur,Standard,7
+Tools & Home Improvement,Kolkata,Economy,7
+Beauty & Personal Care,Bangalore,Express,5
+Electronics,Lucknow,Express,6
+Automotive,Kanpur,Standard,8
+Toys & Games,Bhopal,Economy,9
+Electronics,Lucknow,Standard,8
+Books,Chennai,Economy,8
+Sports & Outdoors,Bhopal,Economy,10
+Books,Bhopal,Priority,3
+Electronics,Jaipur,Express,6
+Automotive,Hyderabad,Express,2
+Clothing,Hyderabad,Standard,2
+Home Goods,Nagpur,Express,6
+Tools & Home Improvement,Surat,Economy,10
+Toys & Games,Chennai,Standard,4
+Electronics,Lucknow,Standard,5
+Automotive,Pune,Express,4
+Books,Pune,Priority,1
+Toys & Games,Pune,Economy,4
+Electronics,Surat,Standard,7
+Health & Household,Lucknow,Express,3
+Home Goods,Chennai,Economy,5
+Tools & Home Improvement,Jaipur,Standard,8
+Health & Household,Delhi,Express,2
+Sports & Outdoors,Kanpur,Economy,7
+Home Goods,Nagpur,Economy,9
+Toys & Games,Surat,Standard,7
+Automotive,Surat,Standard,5
+Health & Household,Bhopal,Standard,7
+Toys & Games,Delhi,Standard,4
+Books,Kanpur,Express,7
+Home Goods,Kolkata,Standard,2
+Electronics,Kolkata,Economy,5
+Automotive,Kolkata,Standard,4
+Clothing,Bangalore,Economy,5
+Electronics,Mumbai,Priority,4
+Health & Household,Kanpur,Economy,9
+Books,Jaipur,Economy,6
+Clothing,Delhi,Priority,3
+Home Goods,Bhopal,Priority,4
+Tools & Home Improvement,Kolkata,Standard,5
+Clothing,Pune,Standard,5
+Clothing,Bangalore,Economy,7
+Health & Household,Nagpur,Economy,9
+Beauty & Personal Care,Hyderabad,Standard,3
+Clothing,Bangalore,Standard,4
+Beauty & Personal Care,Indore,Express,5
+Automotive,Jaipur,Priority,2
+Electronics,Bhopal,Economy,8
+Home Goods,Nagpur,Priority,6
+Health & Household,Kanpur,Standard,6
+Books,Delhi,Priority,3
+Sports & Outdoors,Indore,Economy,10
+Tools & Home Improvement,Lucknow,Priority,6
+Home Goods,Bhopal,Economy,8
+Electronics,Hyderabad,Express,3
+Automotive,Pune,Standard,5
+Books,Surat,Priority,3
+Home Goods,Indore,Priority,6
+Tools & Home Improvement,Chennai,Standard,6
+Books,Ahmedabad,Express,4
+Books,Bangalore,Express,5
+Tools & Home Improvement,Delhi,Express,5
+Beauty & Personal Care,Bhopal,Priority,6
+Books,Nagpur,Express,7
+Electronics,Ahmedabad,Priority,4
+Toys & Games,Surat,Express,3
+Tools & Home Improvement,Mumbai,Express,6
+Tools & Home Improvement,Mumbai,Express,6
+Home Goods,Surat,Economy,7
+Beauty & Personal Care,Mumbai,Economy,5
+Tools & Home Improvement,Delhi,Express,4
+Electronics,Nagpur,Express,6
+Tools & Home Improvement,Bhopal,Economy,10
+Tools & Home Improvement,Chennai,Express,5
+Health & Household,Ahmedabad,Standard,3
+Clothing,Jaipur,Standard,7
+Tools & Home Improvement,Ahmedabad,Express,3
+Beauty & Personal Care,Indore,Priority,5
+Sports & Outdoors,Indore,Economy,8
+Electronics,Mumbai,Express,4
+Toys & Games,Kolkata,Priority,1
+Automotive,Surat,Economy,8
+Home Goods,Chennai,Priority,2
+Automotive,Surat,Express,4
+Tools & Home Improvement,Jaipur,Priority,6
+Clothing,Kanpur,Priority,6
+Beauty & Personal Care,Mumbai,Economy,5
+Sports & Outdoors,Delhi,Priority,3
+Home Goods,Bhopal,Express,6
+Clothing,Pune,Economy,5
+Tools & Home Improvement,Bangalore,Express,4
+Home Goods,Ahmedabad,Priority,2
+Sports & Outdoors,Ahmedabad,Express,2
+Tools & Home Improvement,Bhopal,Economy,11
+Home Goods,Kanpur,Priority,4
+Home Goods,Hyderabad,Express,2
+Health & Household,Indore,Standard,7
+Automotive,Kanpur,Priority,5
+Tools & Home Improvement,Jaipur,Priority,4
+Tools & Home Improvement,Jaipur,Standard,8
+Clothing,Surat,Standard,4
+Health & Household,Nagpur,Express,7
+Books,Jaipur,Express,3
+Automotive,Indore,Economy,7
+Automotive,Chennai,Express,2
+Automotive,Kanpur,Standard,5
+Beauty & Personal Care,Ahmedabad,Standard,3
+Beauty & Personal Care,Jaipur,Economy,7
+Books,Lucknow,Priority,3
+Clothing,Surat,Standard,6
+Toys & Games,Bhopal,Standard,5
+Electronics,Jaipur,Express,4
+Clothing,Lucknow,Economy,9
+Sports & Outdoors,Ahmedabad,Express,1
+Health & Household,Surat,Standard,4
+Automotive,Bangalore,Economy,5
+Home Goods,Indore,Economy,7
+Toys & Games,Delhi,Priority,3
+Home Goods,Bangalore,Priority,2
+Automotive,Indore,Standard,6
+Toys & Games,Jaipur,Priority,3
+Toys & Games,Mumbai,Economy,8
+Clothing,Jaipur,Standard,7
+Clothing,Delhi,Express,3
+Toys & Games,Surat,Standard,5
+Toys & Games,Chennai,Priority,4
+Clothing,Delhi,Priority,4
+Automotive,Bhopal,Priority,6
+Tools & Home Improvement,Ahmedabad,Express,3
+Clothing,Jaipur,Economy,9
+Clothing,Chennai,Economy,8
+Beauty & Personal Care,Chennai,Economy,6
+Books,Indore,Express,6
+Tools & Home Improvement,Lucknow,Economy,7
+Health & Household,Hyderabad,Priority,1
+Sports & Outdoors,Ahmedabad,Standard,2
+Automotive,Delhi,Standard,4
+Automotive,Indore,Standard,5
+Books,Bangalore,Priority,3
+Beauty & Personal Care,Lucknow,Economy,6
+Health & Household,Delhi,Standard,5
+Clothing,Hyderabad,Priority,1
+Beauty & Personal Care,Ahmedabad,Priority,3
+Toys & Games,Mumbai,Standard,6
+Toys & Games,Hyderabad,Standard,4
+Books,Jaipur,Standard,7
+Toys & Games,Surat,Priority,4
+Toys & Games,Ahmedabad,Express,4
+Automotive,Mumbai,Priority,3
+Electronics,Hyderabad,Economy,6
+Toys & Games,Indore,Express,5
+Home Goods,Bangalore,Economy,5
+Clothing,Kolkata,Standard,4
+Automotive,Kanpur,Standard,5
+Clothing,Bhopal,Express,4
+Clothing,Jaipur,Economy,9
+Home Goods,Surat,Economy,6
+Electronics,Bhopal,Standard,7
+Automotive,Chennai,Express,4
+Tools & Home Improvement,Hyderabad,Standard,5
+Tools & Home Improvement,Lucknow,Economy,9
+Automotive,Bangalore,Economy,6
+Automotive,Lucknow,Express,4
+Beauty & Personal Care,Delhi,Express,2
+Tools & Home Improvement,Lucknow,Standard,6
+Beauty & Personal Care,Jaipur,Express,6
+Beauty & Personal Care,Lucknow,Standard,7
+Automotive,Surat,Express,5
+Sports & Outdoors,Indore,Express,4
+Automotive,Bangalore,Economy,5
+Electronics,Chennai,Standard,5
+Clothing,Bhopal,Economy,7
+Home Goods,Kolkata,Express,4
+Books,Bangalore,Priority,2
+Beauty & Personal Care,Lucknow,Express,6
+Health & Household,Chennai,Express,5
+Tools & Home Improvement,Chennai,Standard,7
+Toys & Games,Jaipur,Standard,6
+Toys & Games,Mumbai,Express,3
+Sports & Outdoors,Surat,Priority,4
+Toys & Games,Pune,Express,2
+Toys & Games,Chennai,Priority,3
+Beauty & Personal Care,Bhopal,Express,5
+Home Goods,Ahmedabad,Priority,3
+Books,Kanpur,Express,7
+Home Goods,Pune,Standard,3
+Automotive,Nagpur,Standard,6
+Beauty & Personal Care,Delhi,Standard,6
+Sports & Outdoors,Mumbai,Economy,7
+Clothing,Mumbai,Standard,3
+Beauty & Personal Care,Pune,Priority,3
+Automotive,Kolkata,Standard,4
+Beauty & Personal Care,Lucknow,Express,6
+Toys & Games,Hyderabad,Economy,7
+Toys & Games,Indore,Economy,9
+Electronics,Mumbai,Priority,4
+Home Goods,Indore,Priority,3
+Automotive,Nagpur,Standard,7
+Sports & Outdoors,Hyderabad,Priority,1
+Electronics,Jaipur,Economy,7
+Clothing,Bhopal,Standard,5
+Books,Jaipur,Economy,8
+Tools & Home Improvement,Pune,Economy,8
+Clothing,Bangalore,Economy,7
+Health & Household,Ahmedabad,Priority,1
+Health & Household,Indore,Express,5
+Beauty & Personal Care,Bhopal,Express,7
+Toys & Games,Lucknow,Standard,4
+Home Goods,Lucknow,Standard,7
+Tools & Home Improvement,Kanpur,Economy,11
+Health & Household,Delhi,Economy,6
+Tools & Home Improvement,Kanpur,Priority,4
+Books,Kanpur,Standard,5
+Home Goods,Mumbai,Standard,6
+Home Goods,Lucknow,Priority,5
+Home Goods,Kolkata,Standard,2
+Health & Household,Surat,Economy,6
+Sports & Outdoors,Ahmedabad,Express,4
+Electronics,Nagpur,Standard,8
+Toys & Games,Kanpur,Economy,9
+Home Goods,Indore,Standard,7
+Home Goods,Chennai,Express,3
+Tools & Home Improvement,Indore,Economy,9
+Toys & Games,Nagpur,Economy,9
+Automotive,Jaipur,Standard,5
+Automotive,Kanpur,Economy,10
+Home Goods,Chennai,Economy,6
+Electronics,Nagpur,Priority,4
+Electronics,Nagpur,Standard,6
+Clothing,Surat,Standard,5
+Home Goods,Surat,Priority,5
+Automotive,Pune,Standard,5
+Electronics,Mumbai,Economy,8
+Home Goods,Surat,Express,5
+Clothing,Ahmedabad,Economy,7
+Books,Indore,Priority,5
+Sports & Outdoors,Ahmedabad,Express,4
+Sports & Outdoors,Jaipur,Economy,9
+Health & Household,Delhi,Priority,4
+Beauty & Personal Care,Ahmedabad,Economy,4
+Clothing,Hyderabad,Standard,4
+Toys & Games,Mumbai,Priority,4
+Toys & Games,Ahmedabad,Express,2
+Clothing,Pune,Priority,1
+Toys & Games,Delhi,Standard,4
+Electronics,Hyderabad,Economy,8
+Clothing,Bhopal,Priority,4
+Tools & Home Improvement,Bangalore,Priority,5
+Tools & Home Improvement,Nagpur,Standard,8
+Books,Chennai,Economy,5
+Automotive,Nagpur,Priority,4
